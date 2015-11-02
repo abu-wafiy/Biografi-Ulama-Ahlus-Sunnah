@@ -3,8 +3,8 @@
 PENDAHULUAN
 ===========
 
-Segala puji bagi Allah, kepada-Nya kita memberikan sanjungan, me-
-mohon pertolongan dan ampunan. Kepada-Nya pula kita senantiasa berlindung
+Segala puji bagi Allah, kepada-Nya kita memberikan sanjungan, memohon
+pertolongan dan ampunan. Kepada-Nya pula kita senantiasa berlindung
 dari kejahatan diri dan keburukan amal perbuatan kita. Barangsiapa yang
 diberikan petunjuk oleh-Nya, maka tidak ada seorang pun yang sanggup
 menyesatkannya, dan barang siapa yang disesatkan-Nya, maka tidak akan
