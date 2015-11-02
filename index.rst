@@ -3,6 +3,7 @@
    You can adapt this file completely to your liking, but it should at least
    contain the root `toctree` directive.
 
+===========================   
 Biografi Ulama Ahlus Sunnah
 ===========================
 
@@ -15,7 +16,7 @@ Contents:
    imam_an_nawawi
 
 
-
+==================
 Indices and tables
 ==================
 
