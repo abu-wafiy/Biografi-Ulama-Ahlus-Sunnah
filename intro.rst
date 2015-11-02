@@ -1,6 +1,6 @@
 .. pendahuluan
 
-Pendahuluan
+PENDAHULUAN
 ===========
 
 Segala puji bagi Allah, kepada-Nya kita memberikan sanjungan, me-
