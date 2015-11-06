@@ -7,6 +7,10 @@
 Biografi Ulama Ahlus Sunnah
 ===========================
 
+"Sesungguhnya ulama adalah pewaris para nabi. Sungguh para nabi tidak mewariskan dinar dan dirham. 
+Sungguh mereka hanya mewariskan ilmu maka barangsiapa mengambil warisan tersebut ia telah mengambil 
+bagian yang banyak." [HR.Tirmidzi, Ahmad, Ad-Darimi, Abu Dawud. Dishahihkan oleh Al-Albani]
+
 .. toctree::
    :caption: Daftar Isi
    :maxdepth: 1
