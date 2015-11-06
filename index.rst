@@ -7,9 +7,8 @@
 Biografi Ulama Ahlus Sunnah
 ===========================
 
-Contents:
-
 .. toctree::
+   :caption: Daftar Isi
    :maxdepth: 1
 
    intro
