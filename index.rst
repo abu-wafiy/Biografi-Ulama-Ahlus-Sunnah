@@ -10,7 +10,7 @@ Biografi Ulama Ahlus Sunnah
 Contents:
 
 .. toctree::
-   :maxdepth: 2
+   :maxdepth: 1
 
    intro
    imam_bukhari
