@@ -13,9 +13,10 @@ Biografi Ulama Ahlus Sunnah
 
    intro
    imam_bukhari
-   imam_muslim
    imam_abu_dawud
+   imam_muslim
    ibnu_majah
+   imam_at_tirmidzi
    imam_an_nawawi
    ibnu_hajar
    as_suyuti
