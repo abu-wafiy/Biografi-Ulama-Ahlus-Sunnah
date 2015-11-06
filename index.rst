@@ -14,6 +14,7 @@ Biografi Ulama Ahlus Sunnah
    intro
    imam_bukhari
    imam_muslim
+   ibnu_majah
    imam_an_nawawi
    ibnu_hajar
    as_suyuti
