@@ -1,8 +1,3 @@
-.. Read the Docs Template documentation master file, created by
-   sphinx-quickstart on Tue Aug 26 14:19:49 2014.
-   You can adapt this file completely to your liking, but it should at least
-   contain the root `toctree` directive.
-
 ===========================   
 Biografi Ulama Ahlus Sunnah
 ===========================
@@ -10,10 +5,6 @@ Biografi Ulama Ahlus Sunnah
 "Sesungguhnya ulama adalah pewaris para nabi. Sungguh para nabi tidak mewariskan dinar dan dirham. 
 Sungguh mereka hanya mewariskan ilmu maka barangsiapa mengambil warisan tersebut ia telah mengambil 
 bagian yang banyak." [HR.Tirmidzi, Ahmad, Ad-Darimi, Abu Dawud. Dishahihkan oleh Al-Albani]
-
-.. toctree::
-   :caption: Daftar Isi
-   :maxdepth: 1
 
    intro
    imam_bukhari
@@ -26,12 +17,4 @@ bagian yang banyak." [HR.Tirmidzi, Ahmad, Ad-Darimi, Abu Dawud. Dishahihkan oleh
    ibnu_hajar
    as_suyuti
 
-
-==================
-Indices and tables
-==================
-
-* :ref:`genindex`
-* :ref:`modindex`
-* :ref:`search`
 
