@@ -17,7 +17,7 @@ mempunyai anak yang bernama Zakariya. Sebab, ia belum sempat menikah.
 Ia termasuk salah seorang ulama yang membujang hingga akhir hayatnya. Dan
 mendapatkan gelar "Muhyiddin" (orang yang menghidupkan agama), padahal
 ia tidak menyukai gelar ini. Dan ia memang pernah mengemukakan: "Aku
-tidak perbolehkan orang memberikan gelar 'Muhyiddin' kepadaku".
+tidak perbolehkan orang memberikan gelar *Muhyiddin* kepadaku".
 
 NISBAHNYA
 ---------
