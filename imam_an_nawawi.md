@@ -55,4 +55,4 @@ BEBERAPA TULISAN TENTANG BIOGRAFINYA SECARA KHUSUS
 SUMBER-SUMBER BIOGRAFINYA
 -------------------------
 
-<b id="f1">1</b> Demikianlah yang disebutkan oleh Jumhur Ulama. Di dalam buku al-Minhaajus Sawi fii Tar-jamatil Imaam an-Nawawi. [↩](#a1)
+<b id="f1">1</b>. Demikianlah yang disebutkan oleh Jumhur Ulama. Di dalam buku al-Minhaajus Sawi fii Tar-jamatil Imaam an-Nawawi. [↩](#a1)
