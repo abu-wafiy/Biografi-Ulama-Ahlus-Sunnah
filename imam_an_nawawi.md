@@ -6,7 +6,7 @@ SEJARAH SINGKAT IMAM AN-NAWAWI (631 H - 676 H)
 NAMANYA
 -------
 
-Nama lengkap beliau adalah Yahya bin Syaraf bin Murry [^1] bin Hasan
+Nama lengkap beliau adalah Yahya bin Syaraf bin Murry <sup id="a1">[1](#f1)</sup> bin Hasan
 bin Husain bin Muhammad bin Jum'ah bin Hizam.
 
 GELAR DAN JULUKANNYA
@@ -55,4 +55,4 @@ BEBERAPA TULISAN TENTANG BIOGRAFINYA SECARA KHUSUS
 SUMBER-SUMBER BIOGRAFINYA
 -------------------------
 
-[^1] Demikianlah yang disebutkan oleh Jumhur Ulama. Di dalam buku al-Minhaajus Sawi fii Tar-jamatil Imaam an-Nawawi.
+<b id="f1">1</b> Demikianlah yang disebutkan oleh Jumhur Ulama. Di dalam buku al-Minhaajus Sawi fii Tar-jamatil Imaam an-Nawawi. [↩](#a1)
