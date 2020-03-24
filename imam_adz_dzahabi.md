@@ -1,7 +1,7 @@
 SEJARAH SINGKAT Adz Dzahabi (673 H - 784 H)
 =========================================
 
-NAMANYA
+Namanya
 -------
 
 Nama lengkap beliau adalah Abu Abdillah Muhammad bin Ahmad bin Utsman bin Qaimaz bin Abdullah adz-Dzahabi al-Fariqi.
