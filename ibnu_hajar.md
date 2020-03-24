@@ -1,5 +1,3 @@
-
-
 # SEJARAH SINGKAT IBNU HAJAR AL 'ASQOLANI (773 H - 852 H)
 
 [[TOC]]
@@ -38,7 +36,15 @@ Layaknya sebagai seorang 'alim yang luas ilmunya, maka beliau juga kedatangan pa
 
 Kepakaran al Hafizh Ibnu Hajar sangat terbukti. Beliau mulai menulis pada usia 23 tahun, dan terus berlanjut sampai mendekti ajalnya. Beliau mendapatkan karunia Allah Ta'ala di dalam karya-karyanya, yaitu keistimewaan-keistimewaan yang jarang didapati pada orang lain. Oleh karena itu, karya-karya beliau banyak diterima umat islam dan tersebar luas, semenjak beliau masih hidup. Para raja dan amir biasa saling memberikan hadiah dengan kitab-kitab Ibnu hajar Rahimahullah. Bahkan sampai sekarang, kita dapati banyak peneliti dan penulis bersandar pada karya-karya beliau Rahimahullah.
 
-Di antara karya beliau yang terkenal ialah: Fathul Baari Syarh Shahih Bukhari, Bulughul Marom min Adillatil Ahkam, al Ishabah fi Tamyizish Shahabah, Tahdzibut Tahdzib, ad Durarul Kaminah, Taghliqut Ta'liq, Inbaul Ghumr bi Anbail Umr dan lain-lain.
+Di antara karya beliau yang terkenal ialah: 
+1. Fathul Baari Syarh Shahih Bukhari, Syarah Bukhari (17 jilid) yang dikarang selama 29 tahun, dari tahun 813 H sampai tahun 842 H.
+2. Bulughul Marom min Adillatil Ahkam, kitab Hadits yang telah di syarahkan oleh as Shan'ani dengan nama "Kitab Subulus Salam".
+3. al Ishabah fi Tamyizish Shahabah.
+4. Tahdzibut Tahdzib.
+5. ad Durarul Kaminah.
+6. Taghliqut Ta'liq.
+7. Inbaul Ghumr bi Anbail Umr.
+8. dan lain-lain.
 
 Bahkan menurut muridnya, yaitu Imam asy-Syakhawi, karya beliau mencapai lebih dari 270 kitab. Sebagian peneliti pada zaman ini menghitungnya, dan mendapatkan sampai 282 kitab. Kebanyakan berkaitan dengan pembahasan hadits, secara riwayat dan dirayat (kajian).
 
@@ -68,12 +74,17 @@ Di tengah-tengah mengemban tugasnya, beliau tetap tekun dalam samudra ilmu, sepe
 
 ## Kedudukannya
 
-Ibnu Hajar Rahimahullah menjadi salah satu ulama kebanggaan umat, salah satu tokoh dari kalangan ulama, salah satu pemimpin ilmu. Allah T'’ala memberikan manfaat dengan ilmu yang beliau miliki, sehingga lahirlah murid-murid besar dan disusunnya kitab-kitab.
+Ibnu Hajar Rahimahullah menjadi salah satu ulama kebanggaan umat, salah satu tokoh dari kalangan ulama, salah satu pemimpin ilmu. Allah Ta'ala memberikan manfaat dengan ilmu yang beliau miliki, sehingga lahirlah murid-murid besar dan disusunnya kitab-kitab.
 
-Seandainya kitab beliau hanya Fathul Bari, cukuplah untuk meninggikan dan menunjukkan keagungan kedudukan beliau. Karena kitab ini benar-benar merupakan kamus Sunnah Nabi Shallallahu ‘alaii wasallam. Sedangkan karya beliau berjumlah lebih dari 150 kitab.
+Seandainya kitab beliau hanya Fathul Bari, cukuplah untuk meninggikan dan menunjukkan keagungan kedudukan beliau. Karena kitab ini benar-benar merupakan kamus Sunnah Nabi Shallallahu 'alaii wasallam. Sedangkan karya beliau berjumlah lebih dari 150 kitab.
 
-Syaikh al Albani Rahimahullah mengatakan, Adalah merupakan kedzaliman jika mengatakan mereka (yaitu an-Nawawi dan Ibnu Hajar al 'Asqalani) dan orang-orang semacam mereka termasuk ke dalam golongan ahli bid’ah. Menurut Syaikh al Albani, meskipun keduanya beraqidah Asy’ariyyah, tetapi mereka tidak sengaja menyelisihi al Kitab dan as Sunnah. Anggapan mereka, aqidah Asy’ariyyah yang mereka warisi itu adalah dua hal: Pertama, bahwa Imam al Asy’ari mengatakannya, padahal beliau tidak mengatakannya, kecuali pada masa sebelumnya, (lalu beliau tinggalkan dan menuju aqidah Salaf,). Kedua, mereka menyangka sebagai kebenaran, padahal tidak.
+Syaikh al Albani Rahimahullah mengatakan, Adalah merupakan kedzaliman jika mengatakan mereka (yaitu an-Nawawi dan Ibnu Hajar al 'Asqalani) dan orang-orang semacam mereka termasuk ke dalam golongan ahli bid'ah. Menurut Syaikh al Albani, meskipun keduanya beraqidah Asy'ariyyah, tetapi mereka tidak sengaja menyelisihi al Kitab dan as Sunnah. Anggapan mereka, aqidah Asy’ariyyah yang mereka warisi itu adalah dua hal: 
+* Pertama, bahwa Imam al Asy'ari mengatakannya, padahal beliau tidak mengatakannya, kecuali pada masa sebelumnya, (lalu beliau tinggalkan dan menuju aqidah Salaf,).
+* Kedua, mereka menyangka sebagai kebenaran, padahal tidak.
 
 ## Wafatnya
 
-Ibnu Hajar wafat pada tanggal 28 Dzulhijjah 852 H di Mesir, setelah kehidupannya dipenuhi dengan ilmu yang bermanfaat dan amal shalih, menurut sangkaan kami, dan kami tidak memuji di hadapan Allah terhadap seorangpun. Beliau dikuburkan di Qarafah ash-Shugra. Semoga Allah merahmati beliau dengan rahmat yang luas, memaafkan dan mengampuninya dengan karunia dan kemurahanNya.
+Ibnu Hajar wafat pada tanggal 28 Dzulhijjah 852 H di Mesir dalam usia 79 tahun, setelah kehidupannya dipenuhi dengan ilmu yang bermanfaat dan amal shalih, menurut sangkaan kami, dan kami tidak memuji di hadapan Allah terhadap seorangpun. Beliau dikuburkan di Qarafah ash-Shugra. Semoga Allah merahmati beliau dengan rahmat yang luas, memaafkan dan mengampuninya dengan karunia dan kemurahanNya.
+
+### Sumber
+- http://pustakaimamsyafii.com/ibnu-hajar-al-asqolani-773-852-h.html
